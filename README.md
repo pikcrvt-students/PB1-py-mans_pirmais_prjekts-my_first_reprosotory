@@ -42,3 +42,37 @@ Git represotorija inicilazacija (veidošana) `git init`
 
 ## Tabulas
 
+Tabulas virsraksts | Kolona 2.           | Kolona 3.
+-----------------: | :-----------------: | ---------
+Rinda 1., kolona 1.| Rinda 1., kolona 2. | kolona 3.
+Rinda2.            | Kolona 2.           | kolona 3.
+
+2\. variants
+|Tabulas virsraksts | Kolona 2.           | Kolona 3.|
+|-----------------: | :-----------------: | ---------|
+|Rinda 1., kolona 1.| Rinda 1., kolona 2. | kolona 3.|
+|Rinda2.            | Kolona 2.           | kolona 3.|
+
+## Termini (defenicijas)
+
+Masivs
+: ir structurizetais satu tips, kurā saglābatas vairakas vertības.
+
+## uzdevumu sarakts
+
+Izveido datorspele:
+[x] Ideja;
+[x] Uzdevuma formulejums;
+[ ] Planojam ka stradat;
+[ ] Programmas rasktīšana Python valodā (0. versija);
+[ ] testešana;
+[ ] Izmantojot lokālo GIT saglābat programmas 0. strādājošo versiju.
+
+GIThub variants 2. versija
+Izveido datorspele:
+- [x] Ideja;
+- [x] Uzdevuma formulejums;
+- [ ] Planojam ka stradat;
+- [ ] Programmas rasktīšana Python valodā (0. versija);
+- [ ] testešana;
+- [ ] Izmantojot lokālo GIT saglābat programmas 0. strādājošo versiju.
