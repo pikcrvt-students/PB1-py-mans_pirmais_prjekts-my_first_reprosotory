@@ -3,21 +3,27 @@
     ASCII animacijas. Burtu rotacija ap centralo asi.
 """
 from time import sleep
+from os import system
 
-print("R")
-print(" O")
-print("   T", flush=True)
+system('clear')
+print(" R")
+print("  O")
+print("    T", flush=True)
 sleep(1)
 
-print(" R")
-print(" O")
+system('clear')
+print("  R")
+print("  O")
+print("  T", flush=True)
+sleep(1)
+
+system('clear')
+print("   R")
+print("  O")
 print(" T", flush=True)
 sleep(1)
 
-print("  R")
-print(" O")
-print("T", flush=True)
-sleep(1)
-
+system('clear')
+print("")
 print("T O R", flush=True)
 sleep(1)
